@@ -1,0 +1,25 @@
+.aiphoto-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.aiphoto-aiphoto {
+  width: 100%;
+  height: 265px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.aiphoto-image61220225001 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 265px;
+  position: absolute;
+}
